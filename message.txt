@@ -1,3 +1,4 @@
 2 
 ||| 
-this is a test lol
+<center>This text will be centered.
+<p>So will this paragraph.</p></center>
