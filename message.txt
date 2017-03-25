@@ -1,4 +1,4 @@
 2 
 ||| 
-<center>This text will be centered.
-<p>So will this paragraph.</p></center>
+<div style="text-align:center">This text will be centered.
+<p>So will this paragraph.</p></div>
